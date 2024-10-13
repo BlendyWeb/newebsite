@@ -1,2 +1,2 @@
 # newebsite
-lol
+Here we have a new site of blendy
