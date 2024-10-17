@@ -637,6 +637,15 @@
     display: block;
   }
 
+
+  .why_text {
+    margin-top: 0px !important;
+  }
+
+  .blendy_bg {
+    top: 50px;
+  }
+
   .nav-links {
     position: fixed;
     right: -100%;
@@ -847,6 +856,8 @@
     width: 130%;
     left: -10%;
   }
+
+
 
   .elemento_grafico_L_line_curved {
     display: none;
@@ -1179,6 +1190,27 @@
 @media only screen and (max-width: 500px) {
   .elemento_grafico_b {
     display: none;
+  }
+
+  .elemento_grafico_why {
+    top: -25%;
+  }
+
+  .curved_line_context_content {
+    margin-top: -45%;
+  }
+
+  .after_party_bottle,
+  .focus_bottle,
+  .collagen_bottle,
+  .power_bottle,
+  .before_party_bottle{
+    left: 10%
+  }
+
+
+  .focus_person{
+    width: 150% !important;
   }
 
   .elemento_grafico_E_blue_dark_bg {
