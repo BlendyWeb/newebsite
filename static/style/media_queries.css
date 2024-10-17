@@ -1209,6 +1209,10 @@
   }
 
 
+  .pink_bg .bottle_section img {
+    width: 100% !important;
+  }
+
   .focus_person{
     width: 150% !important;
   }
