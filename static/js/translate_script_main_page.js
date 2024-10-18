@@ -35,15 +35,15 @@ const translations = {
     collagen: "Collagen",
     power: "Power",
     "prevents-negative":
-      'PREVENTS THE <span class="white_color_dark_bg">NEGATIVE</span> EFFECTS OF <span class="white_color_dark_bg">ALCOHOL</span> CONSUMPTION',
+      ' PREVENTS THE <span class="white_color_dark_bg">NEGATIVE </span> EFFECTS OF <span class="white_color_dark_bg">ALCOHOL</span> CONSUMPTION',
     "eliminate-negative":
-      'ELIMINATE THE <span class="black_color_white_bg">NEGATIVE</span> EFFECTS OF <span class="black_color_white_bg">ALCOHOL CONSUMPTION</span>',
+      '<span class="black_color_white_bg"> ELIMINATES </span> THE NEGATIVE EFFECTS OF <span class="black_color_white_bg">ALCOHOL </span> CONSUMPTION',
     "helps-improve":
       'HELPS IMPROVE <span class="white_color_dark_bg"> FOCUS </span>- LOWERS CORTISOL, SUPPORTS THE INCREASE OF <span class="white_color_dark_bg"> DOPAMINE </span> AND SEROTONIN',
     "keeps-skin-young":
       'HELPS KEEP THE SKIN <span class="white_color_dark_bg"> YOUNG </span> & <span class="white_color_dark_bg"> BEAUTIFUL </span>',
     "boosts-energy":
-      'BOOSTS THE <span class="white_color_dark_bg"> ENERGY </span> LEVELS. UNLOCK THE <span class="white_color_dark_bg"> POWER </span> TO TAKE ON ANY CHALLENGE.',
+      'BOOSTS THE <span class="white_color_dark_bg"> ENERGY </span> LEVELS.',
     "about-us-title": "About us",
     "about-us-1":
       "We create functional products that answer all your needs: support health, providing the body with necessary vitamins and minerals in optimal amount; boost energy, help maintain young and beautiful skin; and many more.",
@@ -127,13 +127,13 @@ const translations = {
     "prevents-negative":
       'PREVINE OS EFEITOS <span class="white_color_dark_bg"> NEGATIVOS </span> DO CONSUMO DE <span class="white_color_dark_bg"> ÁLCOOL </span>',
     "eliminate-negative":
-      'ELIMINA OS EFEITOS <span class="black_color_white_bg">NEGATIVOS</span> DO <span class="black_color_white_bg"> CONSUMO DE ÁLCOOL</span>',
+      '<span class="black_color_white_bg"> ELIMINA </span> OS EFEITOS NEGATIVOS DO  CONSUMO DE <span class="black_color_white_bg">ÁLCOOL</span>',
     "helps-improve":
       'AJUDA A MELHORAR O <span class="white_color_dark_bg"> FOCO </span> - REDUZ O CORTISOL, APOIA O AUMENTO DE <span class="white_color_dark_bg"> DOPAMINA </span> E SEROTONINA',
     "keeps-skin-young":
       'AJUDA A MANTER A PELE <span class="white_color_dark_bg"> JOVEM </span> E <span class="white_color_dark_bg"> BONITA </span>',
     "boosts-energy":
-      'AUMENTA OS NÍVEIS DE <span class="white_color_dark_bg"> ENERGIA.</span> LIBERE O <span class="white_color_dark_bg"> PODER </span> PARA ENFRENTAR QUALQUER DESAFIO.',
+      'AUMENTA OS NÍVEIS DE <span class="white_color_dark_bg"> ENERGIA.</span>',
     "about-us-title": "Sobre nós",
     "about-us-1":
       "Criamos produtos funcionais que atendem a todas as suas necessidades: apoiam a saúde, fornecendo ao corpo as vitaminas e minerais necessários em quantidade ideal; aumentam a energia, ajudam a manter a pele jovem e bonita; e muito mais.",
