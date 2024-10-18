@@ -322,9 +322,20 @@ function hexToHSL(hex) {
 function toggleAnswer(index) {
   const answers = document.querySelectorAll(".faq-answer");
   const questions = document.querySelectorAll(".faq-question");
+
+  // Close all answers first
+  answers.forEach((answer, i) => {
+    if (i !== index) {
+      answer.classList.remove("show");
+      questions[i].classList.remove("active");
+    }
+  });
+
+  // Toggle the clicked answer
   answers[index].classList.toggle("show");
   questions[index].classList.toggle("active");
 }
+
 
 // Initialize with the first category
 buttons[0].click();
@@ -336,4 +347,21 @@ buttons.forEach((btn, index) => {
     /*btn.style.boxShadow = "none";*/
     btn.style.backgroundColor = "transparent";
   }
+});
+
+
+const dropdowns = document.querySelectorAll('.dropdown'); 
+
+dropdowns.forEach((dropdown) => {
+  dropdown.addEventListener('click', (event) => {
+    // Close all dropdowns
+    dropdowns.forEach((d) => {
+      if (d !== dropdown) {
+        d.classList.remove('open');  
+      }
+    });
+
+    // Toggle the clicked dropdown
+    dropdown.classList.toggle('open');
+  });
 });
