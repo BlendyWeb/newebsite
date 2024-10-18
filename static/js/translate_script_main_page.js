@@ -4,6 +4,7 @@ const translations = {
     "why-blendy": "Why Blendy?",
     "our-products": "Our products",
     "about-us": "About us",
+    "cont": "Contact",
     contact: "Contact",
     title: "Why Blendy?",
     subtitle:
@@ -165,6 +166,7 @@ const translations = {
     "why-blendy": "Porque Blendy?",
     "our-products": "Nossos produtos",
     "about-us": "Sobre nós",
+    "cont": "Contato",
     contact: "Contato",
     title: "Porque Blendy?",
     subtitle:
