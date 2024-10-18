@@ -171,7 +171,7 @@ const translations = {
     title: "Porque Blendy?",
     subtitle:
       'PORQUE OS NOSSOS SHOTS SÃO <span class="white_color_dark_bg"> UMA ALTERNATIVA SABOROSA E EFICIENTE </span> AOS COMPRIMIDOS OU CÁPSULAS TRADICIONAIS. ELES:',
-    point1: "São melhor absorvidos",
+    point1: '<div class="add-space">São melhor absorvidos</div>',
     "point1-desc":
       "Os ingredientes activos do Blendy já estão dissolvidos, o que facilita a sua absorção no trato digestivo.",
     point2: "Podem ser consumidos com facilidade",
