@@ -24,19 +24,26 @@
 .lang-btn {
   background: none;
   border: none;
-  color: var(--color-text);
+  color: #4B5563;
   cursor: pointer;
-  font-family: "Poppins", sans-serif;
   font-size: 14px;
-  padding: 5px 10px;
-  transition: var(--transition);
+  padding: 6px 8px;
+  border-radius: 6px;
+  transition: all 0.2s;
 }
 
-.lang-btn:hover,
+.lang-btn:hover {
+  background-color: #F3F4F6;
+}
+
 .lang-btn.active {
-  color: var(--color-accent);
-  background-color: var(--color-hover);
-  border-radius: 5px;
+  color: #2563EB;
+  background-color: #EFF6FF;
+}
+
+.divider {
+  color: #9CA3AF;
+  margin: 0 2px;
 }
 
 nav {
