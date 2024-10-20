@@ -18,7 +18,9 @@
 .language-switcher {
   display: flex;
   align-items: center;
-  margin-left: 20px;
+  margin-right: -25px;
+  margin-left: 10px;
+  
 }
 
 .lang-btn {
@@ -33,12 +35,12 @@
 }
 
 .lang-btn:hover {
-  background-color: #F3F4F6;
+  color: #ffd007;
 }
 
 .lang-btn.active {
-  color: #2563EB;
-  background-color: #EFF6FF;
+  color: #ffd007;
+  /* background-color: #EFF6FF; */
 }
 
 .divider {
@@ -54,6 +56,7 @@ nav {
   top: 0;
   z-index: 1000;
   align-content: center;
+  
 }
 
 .nav-container {
@@ -88,6 +91,7 @@ nav {
   list-style: none;
   align-content: center;
   margin-bottom: 0;
+  margin-left: auto;
 }
 
 .nav-links li {
@@ -100,13 +104,14 @@ nav {
   color: var(--color-text);
   text-decoration: none;
   font-weight: 500;
+  font-size: 14px;
   padding: 10px 15px;
   transition: var(--transition);
 }
 
 .nav-links a:hover {
-  color: var(--color-accent);
-  background-color: var(--color-hover);
+  color: #ffd007;
+  /* background-color: var(--color-hover); */
   border-radius: 5px;
 }
 
@@ -124,6 +129,7 @@ nav {
 
 .nav-links a:hover::after {
   width: 100%;
+  background-color: #ffd007;
 }
 
 .burger {
@@ -1539,3 +1545,5 @@ html {
   max-height: 500px;
   padding: 15px;
 }
+
+
