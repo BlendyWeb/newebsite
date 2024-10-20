@@ -198,7 +198,6 @@
 
   .columns_about_us {
     position: absolute;
-    width: 100% !important;
   }
 
   .pink_bg .vantagens {
@@ -222,10 +221,6 @@
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
-  .blendy_bg {
-    top: -50px;
-  }
-
   .why_content {
     margin-top: 150px;
   }
@@ -504,6 +499,9 @@
   .columns_white_curved_line {
     position: static;
   }
+  .why_content {
+    margin-top: 70px;
+  }
 
   .why_text {
     width: 80%;
@@ -629,16 +627,19 @@
   }
 
   .add-space {
-    margin-top: 150px; 
-}
+    margin-top: 150px;
+  }
 
+  .why_content {
+    margin-top: -50px;
+  }
 
   .why_text {
     margin-top: 0px !important;
   }
 
   .blendy_bg {
-    top: 50px;
+    top: 35px;
   }
 
   .nav-links {
@@ -825,8 +826,8 @@
   .left_second_rec,
   .left_second_rec,
   .left_third_rec,
-  .left_fourth_rec{
-    margin-top: 0!important;
+  .left_fourth_rec {
+    margin-top: 0 !important;
   }
 
   .columns_white_curved_line {
@@ -1184,6 +1185,10 @@
     display: none;
   }
 
+  .why_content {
+    margin-top: 150px;
+  }
+
   .elemento_grafico_why {
     top: -25%;
   }
@@ -1261,6 +1266,7 @@
 
   .vantagens h1 {
     font-size: 30px !important;
+    margin-top: -100px;
   }
   .black_bg h1 {
     font-size: 55px;
