@@ -719,6 +719,7 @@ html {
 .rec {
   display: flex;
   justify-content: space-around;
+  
 }
 
 .left_column {
