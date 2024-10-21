@@ -809,6 +809,9 @@
     display: flex;
     width: 100%;
     justify-content: space-around;
+    margin: 0 15px;
+    margin-top: -5rem;
+    margin-left: 5%;
   }
 
   .elemento_grafico_E {
@@ -1180,13 +1183,21 @@
   }
 }
 
+
+
 @media only screen and (max-width: 500px) {
   .elemento_grafico_b {
     display: none;
   }
 
+  .rec {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+
   .why_content {
-    margin-top: 150px;
+    margin-top: 20rem;
   }
 
   .elemento_grafico_why {
@@ -1194,7 +1205,7 @@
   }
 
   .curved_line_context_content {
-    margin-top: -45%;
+    margin-top: -85%;
   }
 
   .after_party_bottle,
@@ -1297,5 +1308,17 @@
 
   .context_area_ab_us {
     font-size: 22px;
+  }
+}
+
+@media only screen and (max-width: 590px) {
+  .elemento_grafico_b {
+    display: none;
+  }
+
+  .rec {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 69px;
   }
 }
