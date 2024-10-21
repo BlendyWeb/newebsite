@@ -1190,6 +1190,18 @@
     display: none;
   }
 
+  #vantagens_collagen {
+    position: relative;
+    left: 5px;
+    top: -150px;
+  }
+
+  #e_letter2 {
+    position: relative;
+    bottom: -50rem;
+    left: 2rem;
+  }
+
   .rec {
     display: flex;
     justify-content: space-around;
