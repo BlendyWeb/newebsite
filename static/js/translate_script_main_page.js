@@ -202,11 +202,11 @@ const translations = {
     "eliminate-negative":
       '<span class="black_color_white_bg"> ELIMINA </span> OS EFEITOS NEGATIVOS DO  CONSUMO DE <span class="black_color_white_bg">ÁLCOOL</span>',
     "helps-improve":
-      'AJUDA A MELHORAR O <span class="white_color_dark_bg"> Focus </span> - REDUZ O CORTISOL, APOIA O AUMENTO DE <span class="white_color_dark_bg"> DOPAMINA </span> E SEROTONINA',
+      'AJUDA A MELHORAR O <span class="white_color_dark_bg"> FOCO </span> - REDUZ O CORTISOL, APOIA O AUMENTO DA <span class="white_color_dark_bg"> DOPAMINA </span> E SEROTONINA',
     "keeps-skin-young":
       'AJUDA A MANTER A PELE <span class="white_color_dark_bg"> JOVEM </span> E <span class="white_color_dark_bg"> BONITA </span>',
     "boosts-energy":
-      'AUMENTA OS NÍVEIS DE <span class="white_color_dark_bg"> Power.</span>',
+      'AUMENTA OS NÍVEIS DE <span class="white_color_dark_bg"> ENERGIA.</span>',
     "about-us-title": "Sobre nós",
     "about-us-1":
       "Criamos produtos funcionais que atendem a todas as suas necessidades: apoiam a saúde, fornecendo ao corpo as vitaminas e minerais necessários em quantidade ideal; aumentam a Power, ajudam a manter a pele jovem e bonita; e muito mais.",
