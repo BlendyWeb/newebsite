@@ -1266,6 +1266,15 @@
     display: none;
   }
 
+  .after_party_person {
+    width: 120%;
+    transform: scaleX(-1);
+    margin-top: 200px;
+    margin-bottom: 120px;
+    right: 20%;
+    
+  }
+
   .why_bg_section {
     margin-top: -1rem;
 
@@ -1357,7 +1366,7 @@
   }
 
   .blue_dark_bg .vantagens h1 {
-    margin-top: -150px !important;
+    margin-top: -70px !important;
   }
 
 
