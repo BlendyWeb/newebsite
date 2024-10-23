@@ -124,6 +124,8 @@
   .father .center_blendy_img img {
   }
 
+  
+
   .bottle_tilted_area {
     width: 50%;
   }
@@ -219,17 +221,22 @@
   }
 }
 
-@media only screen and (max-width: 390px) {
-  #why_blendy {
+@media only screen and (max-width: 390px){
+  #why-blendy {
     margin-top: 7rem;
     margin-bottom: 11rem;
   }
+
+  
+}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
   .why_content {
     margin-top: 150px;
   }
+
+  
 
   .left_bottle_section {
     left: 0;
@@ -404,6 +411,9 @@
     margin-top: 0;
   }
 
+  
+  
+
   .title_section_area {
     display: block;
     width: 100%;
@@ -502,6 +512,8 @@
   .father img {
     width: 200px !important;
   }
+
+  
   .columns_white_curved_line {
     position: static;
   }
@@ -531,6 +543,8 @@
   .father .center_blendy_img img {
     right: 18%;
   }
+
+  
   .green_bg .foto_person_container {
     right: 50px;
   }
@@ -626,6 +640,8 @@
   }
 }
 
+
+
 @media only screen and (max-width: 768px) {
   .elemento_grafico_D_ybg,
   .elemento_grafico_E_ybg {
@@ -633,7 +649,7 @@
   }
 
   .why_bg_section {
-    margin-top: -6rem:
+    margin-top: -6rem;
   }
 
   #why-blendy {
@@ -832,6 +848,21 @@
     width: 100%;
     justify-content: space-around;
   }
+
+  
+  #columns_afterparty {
+    display: flex;
+    max-width: 1200px;    /* This restricts the content from becoming too wide on large screens */
+    margin-left: auto;
+    margin-right: auto;   /* Auto margins center the element */
+    padding-left: 2rem;   /* Add padding for smaller screens */
+    padding-right: -19rem;
+    gap: 1rem;
+}
+
+
+
+
 
   .elemento_grafico_E {
     display: none;
@@ -1231,12 +1262,15 @@
   }
 
   .why_bg_section {
-    margin-top: -1rem
+    margin-top: -1rem;
+
   }
 
   .why_content {
     margin-top: 130px;
+    
   }
+
 
   .elemento_grafico_why {
     top: -25%;
