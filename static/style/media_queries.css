@@ -648,6 +648,16 @@
     display: block;
   }
 
+  #bp_eliminate {
+    margin-top: -160px;
+  }
+
+  .after_party_person {
+    left: -80%;
+    width: 450px;
+    margin-bottom: 100px;
+  }
+
   .why_bg_section {
     margin-top: -6rem;
   }
@@ -1270,8 +1280,9 @@
     width: 120%;
     transform: scaleX(-1);
     margin-top: 200px;
-    margin-bottom: 120px;
+    margin-bottom: 130px;
     right: 20%;
+    margin-left: 150px;
     
   }
 
