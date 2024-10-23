@@ -219,6 +219,12 @@
   }
 }
 
+@media only screen and (max-width: 390px) {
+  #why_blendy {
+    margin-top: 7rem;
+    margin-bottom: 11rem;
+  }
+
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
   .why_content {
@@ -624,6 +630,14 @@
   .elemento_grafico_D_ybg,
   .elemento_grafico_E_ybg {
     display: block;
+  }
+
+  .why_bg_section {
+    margin-top: -6rem:
+  }
+
+  #why-blendy {
+    margin-bottom: 13rem;
   }
 
   .before_party_mobile_b{
@@ -1211,13 +1225,17 @@
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 450px) {
   .elemento_grafico_b {
     display: none;
   }
 
+  .why_bg_section {
+    margin-top: -1rem
+  }
+
   .why_content {
-    margin-top: 150px;
+    margin-top: 130px;
   }
 
   .elemento_grafico_why {
