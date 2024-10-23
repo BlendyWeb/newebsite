@@ -1244,6 +1244,19 @@ html {
   text-align: center;
 }
 
+h1 {
+  text-align: center; /* Center the text if needed */
+}
+
+.before {
+  display: block; /* Forces "Before" onto its own line */
+}
+
+.party {
+  display: block; /* Forces "party" onto the next line */
+  margin-top: 5px; /* Optional: Add some space between the lines */
+}
+
 .mobile_title_section_area h1 {
   font-size: 30px;
   font-family: "scale-variable", sans-serif;
