@@ -1126,6 +1126,16 @@
   }
 
   .collagen_person {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      /* Optional: Add some padding or margin around the image if necessary */
+      margin: 0 auto;
+      left: -50%;
+  
+  }
+
+  .collagen_person {
     bottom: 100px;
     right: 200px;
   }
@@ -1294,6 +1304,23 @@
   #power_h1 {
     margin-bottom: -5rem;
   }
+
+  #collagen_h1 {
+    margin: 0 auto; /* Centers the h1 element horizontally */
+    width: fit-content; /* Makes the width just enough to fit the content */
+    text-align: center; /* Centers the text inside the h1 */
+    padding: 1rem; /* Optional: Add some padding inside the h1 */
+}
+
+.collagen_person {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    /* Optional: Add some padding or margin around the image if necessary */
+    margin: 0 auto;
+    left: -50%;
+
+}
 
   .after_party_person {
     width: 120%;
