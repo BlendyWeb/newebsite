@@ -42,7 +42,7 @@ const translations = {
     "helps-improve":
       'HELPS IMPROVE <span class="white_color_dark_bg"> FOCUS </span>- LOWERS CORTISOL, SUPPORTS THE INCREASE OF <span class="white_color_dark_bg"> DOPAMINE </span> AND SEROTONIN',
     "keeps-skin-young":
-      'HELPS KEEP THE SKIN <span class="white_color_dark_bg"> YOUNG </span> & <span class="white_color_dark_bg"> BEAUTIFUL </span>',
+      'HELPS KEEP <br> THE SKIN <br><span class="white_color_dark_bg"> YOUNG </span><br> & <span class="white_color_dark_bg"> BEAUTIFUL </span>',
     "boosts-energy":
       'BOOSTS <br> THE <span class="white_color_dark_bg"> ENERGY </span> <br> LEVELS',
     "about-us-title": "About us",
