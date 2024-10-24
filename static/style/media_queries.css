@@ -653,6 +653,11 @@
     left: -1%;
   }
 
+  #collagen_pink {
+    position: relative;
+    left: -10%;
+  }
+
   #collagen_h1 {
     margin: 1rem auto; /* Centers the h1 element horizontally */
     width: fit-content; /* Makes the width just enough to fit the content */
@@ -1325,6 +1330,11 @@
 @media only screen and (max-width: 450px) {
   .elemento_grafico_b {
     display: none;
+  }
+
+  #collagen_pink {
+    position: relative;
+    left: -10%;
   }
 
   .bottle_section img {
