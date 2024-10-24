@@ -648,6 +648,11 @@
     display: block;
   }
 
+  .bottle_section img {
+    position: relative;
+    left: -1%;
+  }
+
   #collagen_h1 {
     margin: 1rem auto; /* Centers the h1 element horizontally */
     width: fit-content; /* Makes the width just enough to fit the content */
@@ -1320,6 +1325,11 @@
 @media only screen and (max-width: 450px) {
   .elemento_grafico_b {
     display: none;
+  }
+
+  .bottle_section img {
+    position: relative;
+    left: 2%;
   }
 
   .power_person {
