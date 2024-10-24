@@ -658,6 +658,14 @@
     margin-bottom: 100px;
   }
 
+  .after_party_bottle {
+    position: relative;
+    height: auto; /* Maintains the aspect ratio of the image */
+    margin: 0 auto; /* Centers the image horizontally */
+    max-width: 100%; /* Ensures the image doesn't overflow its container */
+    width: 80%; /* Controls image size relative to the container width */
+  }
+
   .why_bg_section {
     margin-top: -6rem;
   }
@@ -1127,6 +1135,10 @@
 
   .before_party_bottle {
     position: relative;
+    height: auto; /* Maintains the aspect ratio of the image */
+    margin: 0 auto; /* Centers the image horizontally */
+    max-width: 100%; /* Ensures the image doesn't overflow its container */
+    width: 80%; /* Controls image size relative to the container width */
   }
 
   .blue_dark_bg .bottle_section {
