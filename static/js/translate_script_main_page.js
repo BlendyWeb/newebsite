@@ -36,11 +36,11 @@ const translations = {
     collagen: "Collagen",
     power: "Power",
     "prevents-negative":
-      ' PREVENTS THE <span class="white_color_dark_bg">NEGATIVE </span> EFFECTS OF <span class="white_color_dark_bg">ALCOHOL</span> CONSUMPTION',
+      ' PREVENTS<br> THE <span class="white_color_dark_bg">NEGATIVE<br> </span> EFFECTS<br> OF <span class="white_color_dark_bg">ALCOHOL</span><br> CONSUMPTION',
     "eliminate-negative":
-      '<span class="black_color_white_bg"> ELIMINATES </span> THE NEGATIVE EFFECTS OF <span class="black_color_white_bg">ALCOHOL </span> CONSUMPTION',
+      '<span class="black_color_white_bg"> ELIMINATES<br> </span> THE NEGATIVE<br> EFFECTS <br>OF <span class="black_color_white_bg">ALCOHOL <br></span> CONSUMPTION',
     "helps-improve":
-      'HELPS IMPROVE <span class="white_color_dark_bg"> FOCUS </span>- LOWERS CORTISOL, SUPPORTS THE INCREASE OF <span class="white_color_dark_bg"> DOPAMINE </span> AND SEROTONIN',
+      'HELPS IMPROVE<br> <span class="white_color_dark_bg"> FOCUS </span>- LOWERS<br> CORTISOL,<br> SUPPORTS THE <br>INCREASE <br>OF <span class="white_color_dark_bg"> DOPAMINE <br></span> AND SEROTONIN',
     "keeps-skin-young":
       'HELPS KEEP <br> THE SKIN <br><span class="white_color_dark_bg"> YOUNG </span><br> & <span class="white_color_dark_bg"> BEAUTIFUL </span>',
     "boosts-energy":
