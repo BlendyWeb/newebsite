@@ -1185,9 +1185,16 @@
     top: -100px;
   }
 
+  #power_h1 {
+    margin-bottom: -5rem;
+  }
+
   .power_person {
     position: relative;
     z-index: 5;
+    left: -20%;
+    max-width: 150%;
+    bottom: -1.5rem;
   }
 
   .focus_mobile_b{
@@ -1274,6 +1281,18 @@
 @media only screen and (max-width: 450px) {
   .elemento_grafico_b {
     display: none;
+  }
+
+  .power_person {
+    position: relative;
+    z-index: 5;
+    left: 15%;
+    max-width: 100%;
+    bottom: -1.5rem;
+  }
+
+  #power_h1 {
+    margin-bottom: -5rem;
   }
 
   .after_party_person {
