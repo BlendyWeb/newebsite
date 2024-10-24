@@ -859,6 +859,14 @@
     justify-content: space-around;
   }
 
+  #collagen_list {
+      display: flex;
+      width: fit-content;
+      margin: 0 auto;
+      justify-content: space-between;
+      gap: 30px; /* Adjust the value to increase/decrease the space */
+  }
+
   
   #columns_afterparty {
     display: flex;
