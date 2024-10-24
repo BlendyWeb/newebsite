@@ -1243,7 +1243,7 @@ html {
   display: none;
   text-align: center;
 }
-
+/*
 .mobile_title_section_area {
   display: flex;
   flex-direction: column;
@@ -1251,7 +1251,7 @@ html {
   text-align: center;
   width: 100%;
   margin: 0 auto;
-}
+}*/
 
 h1 {
   text-align: center; /* Center the text if needed */
