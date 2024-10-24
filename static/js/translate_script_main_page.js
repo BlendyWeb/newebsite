@@ -44,7 +44,7 @@ const translations = {
     "keeps-skin-young":
       'HELPS KEEP THE SKIN <span class="white_color_dark_bg"> YOUNG </span> & <span class="white_color_dark_bg"> BEAUTIFUL </span>',
     "boosts-energy":
-      'BOOSTS THE <span class="white_color_dark_bg"> ENERGY </span> LEVELS.',
+      'BOOSTS <br> THE <span class="white_color_dark_bg"> ENERGY </span> <br> LEVELS',
     "about-us-title": "About us",
     "about-us-1":
       "We create functional products that answer all your needs: support health, providing the body with necessary vitamins and minerals in optimal amount; boost energy, help maintain young and beautiful skin; and many more.",
