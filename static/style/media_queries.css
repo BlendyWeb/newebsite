@@ -648,6 +648,20 @@
     display: block;
   }
 
+  #ap_ing {
+    margin-left: 5%;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 25px;
+    left: 10%;
+    justify-content: space-evenly;
+    padding-right: -2rem;
+    
+  }
+
   .bottle_section img {
     position: relative;
     left: -1%;
