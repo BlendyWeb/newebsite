@@ -648,6 +648,10 @@
     display: block;
   }
 
+  #bp_2{
+    margin-left: 4rem;
+  }
+
   #ing_bp {
     display: flex;
     justify-content: space-around; /* Spreads columns across the container */
