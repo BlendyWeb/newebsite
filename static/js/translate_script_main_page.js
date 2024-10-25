@@ -18,10 +18,10 @@ const translations = {
     point3: "Have higher concentration of active ingredients",
     "point3-desc":
       "They contain a larger amount of active ingridients allowing for higher dosses in one serving",
-    point4: "",
+    point4: "Can be taken anywhere...and they look splendid!",
     "point4-desc":
       "No need to drag a whole pharmacy with you. at work, on holidays during travels, while driving... you can take a Blendy out and instantly provide your body with all the nutrients it needs. Convenient isn't it? And looks astonishing",
-    point5: "Lack fillers",
+    point5: "Lack of fillers",
     "point5-desc":
       "Unlike tablets and capsuls, our shots contain fewer - or do not include at all - addicional ingridients, such as counting or fillers. There is simply no need for them.",
     point6: "Act faster",
