@@ -679,12 +679,12 @@
     margin: 0 auto;
   }
 
-  #collagen_ing{
+  /* #collagen_ing{
     display: flex;
-    justify-content: space-around; /* Spreads columns across the container */
+    justify-content: space-around; /* Spreads columns across the container 
     width:30vh;
     margin: 0 auto; 
-  }
+  } */
 
   .bottle_section img {
     position: relative;
