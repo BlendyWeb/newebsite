@@ -648,18 +648,38 @@
     display: block;
   }
 
-  #ap_ing {
-    margin-left: 2%;
-    position: relative;
-    z-index: 1;
+  #ing_bp {
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-top: -35px;
-    left: 10%;
-    justify-content: space-evenly;
-    padding-right: -2rem;
-    
+    justify-content: space-around; /* Spreads columns across the container */
+    width: fit-content;
+    margin: 0 auto;
+     
+  }
+
+  #ap_column2{
+    margin-left: 2rem;
+  }
+  
+  #ap_ing {
+    display: flex;
+    justify-content: space-between; /* Spreads columns across the container */
+    width: 40vh;
+    margin: 0 auto;
+    margin-top: -3rem;  
+  }
+
+  #focus_ing{
+    display: flex;
+    justify-content: space-around; /* Spreads columns across the container */
+    width: 40vh;
+    margin: 0 auto;
+  }
+
+  #collagen_ing{
+    display: flex;
+    justify-content: space-around; /* Spreads columns across the container */
+    width:30vh;
+    margin: 0 auto; 
   }
 
   .bottle_section img {
