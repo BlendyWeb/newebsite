@@ -198,15 +198,15 @@ const translations = {
     collagen: "Collagen",
     power: "Power",
     "prevents-negative":
-      'PREVINE OS EFEITOS <span class="white_color_dark_bg"> NEGATIVOS </span> DO CONSUMO DE <span class="white_color_dark_bg"> ÁLCOOL </span>',
+      'PREVINE<br> OS EFEITOS <br><span class="white_color_dark_bg"> NEGATIVOS </span> DO <br>CONSUMO DE <span class="white_color_dark_bg"> <br>ÁLCOOL </span>',
     "eliminate-negative":
-      '<span class="black_color_white_bg"> ELIMINA </span> OS EFEITOS NEGATIVOS DO  CONSUMO DE <span class="black_color_white_bg">ÁLCOOL</span>',
+      '<span class="black_color_white_bg"> ELIMINA<br> </span> OS EFEITOS <br>NEGATIVOS DO <br> CONSUMO<br> DE <span class="black_color_white_bg">ÁLCOOL</span>',
     "helps-improve":
-      'AJUDA A MELHORAR O <span class="white_color_dark_bg"> FOCO </span> - REDUZ O CORTISOL, APOIA O AUMENTO DA <span class="white_color_dark_bg"> DOPAMINA </span> E SEROTONINA',
+      'AJUDA A MELHORAR<br> O <span class="white_color_dark_bg"> FOCO </span> - REDUZ <br>O CORTISOL<br>, APOIA O <br>AUMENTO <br>DA <span class="white_color_dark_bg"> DOPAMINA <br></span> E SEROTONINA',
     "keeps-skin-young":
-      'AJUDA A MANTER A PELE <span class="white_color_dark_bg"> JOVEM </span> E <span class="white_color_dark_bg"> BONITA </span>',
+      'AJUDA A MANTER<br> A PELE <br><span class="white_color_dark_bg"> JOVEM<br> </span> E <span class="white_color_dark_bg"> BONITA </span>',
     "boosts-energy":
-      'AUMENTA OS NÍVEIS DE <span class="white_color_dark_bg"> ENERGIA.</span>',
+      'AUMENTA<br> OS NÍVEIS DE<br> <span class="white_color_dark_bg"> ENERGIA.</span>',
     "about-us-title": "Sobre nós",
     "about-us-1":
       "Criamos produtos funcionais que atendem a todas as suas necessidades: apoiam a saúde, fornecendo ao corpo as vitaminas e minerais necessários em quantidade ideal; aumentam a Power, ajudam a manter a pele jovem e bonita; e muito mais.",
