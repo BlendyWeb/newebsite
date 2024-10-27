@@ -654,6 +654,17 @@
   }
 }
 
+@media screen and (min-width:769px) and (max-width:1200px){
+  .columns_about_us {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-left: 6rem;
+    gap: 2rem;
+  } 
+}
+
 
 
 @media only screen and (max-width: 768px) {
