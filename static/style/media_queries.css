@@ -1630,7 +1630,9 @@
   }
 
   .yellow_bg .vantagens {
-    left: 30px;
+    left: -300px !important;
+    position: relative;
+    top: 150px;
   }
 
   .blue_dark_bg .person_img_area {
