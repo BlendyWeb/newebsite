@@ -124,6 +124,12 @@
   .father .center_blendy_img img {
   }
 
+  .columns_white_curved_line {
+    border: 2px solid red;
+    margin-top: 5rem;
+    
+  }
+
   
 
   .bottle_tilted_area {
