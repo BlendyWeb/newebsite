@@ -469,6 +469,7 @@
 
   .columns_about_us {
     display: block;
+    left: 14%;
   }
 
   .column_about_us {
@@ -480,6 +481,14 @@
     width: 90% !important;
     top: 50px;
   }
+
+
+  .elemento_grafico_B_ybg {
+    width: 500px;
+    z-index: -1;
+    left: 50%;
+  }
+
 
   .elemento_grafico_B_black_bg {
     width: 300px !important;
