@@ -243,6 +243,8 @@
 
   
 
+  
+
   .left_bottle_section {
     left: 0;
   }
@@ -474,7 +476,6 @@
 
   .columns_about_us {
     display: block;
-    left: 14%;
   }
 
   .column_about_us {
@@ -486,14 +487,6 @@
     width: 90% !important;
     top: 50px;
   }
-
-
-  .elemento_grafico_B_ybg {
-    width: 500px;
-    z-index: -1;
-    left: 50%;
-  }
-
 
   .elemento_grafico_B_black_bg {
     width: 300px !important;
@@ -652,7 +645,10 @@
 
     justify-content: center;
   }
+
+  
 }
+
 
 @media screen and (min-width:769px) and (max-width:1200px){
   .columns_about_us {
@@ -662,9 +658,9 @@
     width: 100%;
     margin-left: 6rem;
     gap: 2rem;
+    
   } 
 }
-
 
 
 @media only screen and (max-width: 768px) {
@@ -672,6 +668,8 @@
   .elemento_grafico_E_ybg {
     display: block;
   }
+
+  
 
   #bp_2{
     margin-left: 4rem;
@@ -711,6 +709,7 @@
     margin: 0 auto; 
   } */
 
+  
   .bottle_section img {
     position: relative;
     left: -1%;
@@ -720,6 +719,7 @@
     position: relative;
     left: -10%;
   }
+
 
   #collagen_h1 {
     margin: 1rem auto; /* Centers the h1 element horizontally */
@@ -946,6 +946,7 @@
     display: flex;
     width: 100%;
     justify-content: space-around;
+    
   }
 
   #collagen_list {
@@ -953,7 +954,7 @@
       width: fit-content;
       margin: 0 auto;
       justify-content: space-between;
-      gap: 30px; /* Adjust the value to increase/decrease the space */
+      gap: 3px; /* Adjust the value to increase/decrease the space */
   }
 
   
@@ -1196,9 +1197,7 @@
     left: 0%;
   }
 
-  .bottle_section img {
-    position: relative;
-  }
+  
 
   .blue_dark_bg .top_flor {
     display: flex;
@@ -1343,6 +1342,7 @@
   .mobile_title_section_area {
     display: block;
     margin-bottom: 2rem;
+
   }
 
   .title_section_area {
@@ -1390,6 +1390,9 @@
   }
 }
 
+
+
+
 @media screen and (min-width: 600px)  and (max-width: 765px) {
   .columns_white_curved_line {
     margin-top: -3rem;
@@ -1402,8 +1405,6 @@
     padding: 2rem;
   }
 }
-
-
 
 @media only screen and (max-width: 450px) {
   .elemento_grafico_b {
@@ -1422,6 +1423,7 @@
   .bottle_section img {
     position: relative;
     left: 2%;
+
   }
 
   .power_person {
@@ -1443,8 +1445,6 @@
     padding: 1rem; /* Optional: Add some padding inside the h1 */
     margin-top: -2.5rem;
 }
-
-  
 
 .collagen_person {
   display: flex;
