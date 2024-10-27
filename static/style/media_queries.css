@@ -1379,11 +1379,28 @@
   }
 }
 
+@media screen and (min-width: 600px)  and (max-width: 765px) {
+  .columns_white_curved_line {
+    margin-top: -3rem;
+  }
+}
+
+@media screen and (min-width: 451px) and (max-width: 551px) {
+  .columns_white_curved_line {
+    margin-top: 17rem;
+    padding: 2rem;
+  }
+}
+
 
 
 @media only screen and (max-width: 450px) {
   .elemento_grafico_b {
     display: none;
+  }
+
+  .columns_white_curved_line {
+    margin-top: -6rem;
   }
 
   #collagen_pink {
