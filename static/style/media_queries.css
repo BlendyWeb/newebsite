@@ -1176,6 +1176,11 @@
     order: 3;
   }
 
+  .green_bg .bottom_flor .e_letter{
+    position: absolute;
+    top: -500px;
+  }
+
   .pink_bg .vantagens {
     order: 4;
     width: 90% !important;
@@ -1197,7 +1202,7 @@
   .j1_letter_pink_bg {
     position: relative;
     width: 250px;
-    left: 450px !important;
+    left: 300px !important;
   }
 
   .pink_bg .bottom_flor {
@@ -1591,6 +1596,50 @@
 }
 
 @media only screen and (max-width: 450px) {
+
+  .light_blue_bg .top_flor .focus_mobile_j{
+    z-index: -1;
+  }
+
+
+  .light_blue_bg .top_flor .mobile_left_letters_section{
+    left: -100px;
+  }
+
+  .light_blue_bg .top_flor .mobile_right_letters_section{
+    right: 20px;
+    z-index: -1;
+  }
+
+
+  .blue_dark_bg .mobile_left_letters_section .e_letter{
+    top: 200px;
+    z-index: -1;
+  }
+
+  .j1_letter_pink_bg {
+    width: 250px;
+    left: 150px !important;
+   }
+
+  .yellow_bg .bottom_flor .mobile_right_letters_section{
+    left: 100px;
+  } 
+
+
+  .green_bg .top_flor .mobile_left_letters_section .e_letter{
+    left: -50px !important;
+  }
+  .green_bg .top_flor .mobile_left_letters_section{
+    left: -50px !important;
+    top: 150px;
+  }
+
+  .green_bg .top_flor .mobile_right_letters_section .mobile_b_letter{
+    left: -100px !important;
+  }
+
+
   .elemento_grafico_b {
     display: none;
   }
