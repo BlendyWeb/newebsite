@@ -1899,4 +1899,8 @@
   .black_bg p {
     line-height: 33px;
   }
+
+  .blue_dark_bg .columns {
+    margin-left: 0px;
+  }
 }
