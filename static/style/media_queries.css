@@ -1815,6 +1815,11 @@
     right: 50px;
   }
 
+  .yellow_bg .bottle_section .power_bottle {
+    width: 70% !important;
+    left: 5%;
+  }
+
   .blue_dark_bg .person_img_area {
     bottom: -800px !important;
     width: 30%;
@@ -1856,6 +1861,10 @@
     font-size: 55px;
   }
 
+
+  .pink_bg .bottle_section .collagen_bottle {
+    width: 100% !important;
+  }
   .elemento_grafico_D_black_bg {
     opacity: 0.7;
   }
