@@ -84,6 +84,10 @@
   .title_main_answer_section h1 {
     font-size: 70px !important;
   }
+
+  .green_bg .vantagens{
+    top: -250px;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1500px and up) */
@@ -221,6 +225,11 @@
     right: -200px;
     bottom: -300px;
   }
+
+  .green_bg .vantagens{
+    left: -350px;
+    top: -250px;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -228,7 +237,6 @@
   .why_content {
     margin-top: 150px;
   }
-
 
   .pink_bg .bottle_section .collagen_bottle {
     width: 150% !important;
@@ -525,6 +533,11 @@
     left: 50px;
     width: 300px;
   }
+
+  .green_bg .vantagens{
+    left: -300px;
+    top: 50px;
+  }
 }
 
 @media only screen and (max-width: 1050px) {
@@ -554,6 +567,11 @@
 
   .b_letter_pink_bg {
     display: none;
+  }
+
+
+  .green_bg .vantagens{
+    top: -50px;
   }
 }
 
@@ -685,6 +703,16 @@
     margin-top: 20%;
     font-size: 40px !important;
     width: 50%;
+  }
+
+  .green_bg .bottom_flor{
+    margin-top: 150px;
+  }
+
+  .green_bg .vantagens{
+    width: 50%;
+    top: -150px;
+    left: -200px;
   }
 }
 
