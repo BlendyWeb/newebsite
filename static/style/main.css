@@ -945,12 +945,16 @@ html {
 }
 
 .points_area_text {
-  text-align: center;
+  text-align: left;
   margin-left: 10px;
 }
 
 .column {
   width: 50%;
+}
+
+.collagen_first_icon{
+  margin-top: -20px;
 }
 
 .vantagens {
@@ -1183,6 +1187,10 @@ html {
   width: 100%;
 }
 
+.blendy_and_bottles_sedction{
+  margin-top: 73px;
+}
+
 .j1_letter_pink_bg {
   position: absolute;
   width: 400px;
@@ -1221,7 +1229,7 @@ html {
 
 .pink_bg .vantagens {
   margin-left: 300px !important;
-  left: 200px;
+  left: 250px;
 }
 
 .pink_bg .person_img_area {
