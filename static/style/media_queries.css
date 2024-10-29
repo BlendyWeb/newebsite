@@ -85,13 +85,16 @@
     font-size: 70px !important;
   }
 
-  .green_bg .vantagens{
+  .green_bg .vantagens {
     top: -250px;
   }
 }
 
 /* Extra large devices (large laptops and desktops, 1500px and up) */
 @media only screen and (max-width: 1500px) {
+  .yellow_bg .vantagens {
+    margin-top: 15%;
+  }
   .father div img {
   }
 
@@ -226,7 +229,7 @@
     bottom: -300px;
   }
 
-  .green_bg .vantagens{
+  .green_bg .vantagens {
     left: -350px;
     top: -250px;
   }
@@ -234,6 +237,13 @@
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
+
+
+
+  .yellow_bg .vantagens {
+    margin-top: 10% !important;
+    left: -25% !important;
+  }
   .why_content {
     margin-top: 150px;
   }
@@ -361,9 +371,7 @@
     bottom: -120px;
   }
 
-  .yellow_bg .vantagens {
-    left: -25% !important;
-  }
+
 
   .vantagens h1 {
     font-size: 40px;
@@ -484,10 +492,6 @@
     margin-bottom: -200px;
   }
 
-  .yellow_bg .vantagens {
-    margin-top: 00px;
-  }
-
   .yellow_bg .foto_person_container img {
     width: 500% !important;
   }
@@ -534,7 +538,7 @@
     width: 300px;
   }
 
-  .green_bg .vantagens{
+  .green_bg .vantagens {
     left: -300px;
     top: 50px;
   }
@@ -569,8 +573,7 @@
     display: none;
   }
 
-
-  .green_bg .vantagens{
+  .green_bg .vantagens {
     top: -50px;
   }
 }
@@ -705,11 +708,11 @@
     width: 50%;
   }
 
-  .green_bg .bottom_flor{
+  .green_bg .bottom_flor {
     margin-top: 150px;
   }
 
-  .green_bg .vantagens{
+  .green_bg .vantagens {
     width: 50%;
     top: -150px;
     left: -200px;
@@ -730,12 +733,12 @@
     left: -10% !important;
   }
 
-  .yellow_bg .mobile_left_letters_section{
+  .yellow_bg .mobile_left_letters_section {
     width: 20%;
     left: 10% !important;
   }
 
-  .yellow_bg .mobile_right_letters_section{
+  .yellow_bg .mobile_right_letters_section {
     right: 20%;
     width: 20%;
   }
@@ -1888,7 +1891,6 @@
   .black_bg h1 {
     font-size: 55px;
   }
-
 
   .pink_bg .bottle_section .collagen_bottle {
     width: 100% !important;
