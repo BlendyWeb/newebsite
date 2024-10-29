@@ -1955,6 +1955,11 @@
     margin-left: 0px;
   }
 
+  .blue_dark_bg .vantagens {
+    position: static;
+    margin-top: 50px !important;
+  }
+
   .slide img {
     margin-top: -100px;
   }
