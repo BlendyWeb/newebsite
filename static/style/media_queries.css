@@ -1073,6 +1073,10 @@
     margin-top: 100px;
   }
 
+  .green_bg .bottom_flor {
+    margin-top: 0;
+  }
+
   .person_img_area {
     margin: auto;
     position: static;
