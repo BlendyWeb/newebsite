@@ -1562,12 +1562,9 @@ h1 {
   color: black;
   cursor: pointer;
   transition: all 0.3s;
-  border-radius: 5px;
-  font-size: 1rem;
   flex: 1 1 auto;
-  max-width: 200px;
-
-  font-size: 45px;
+  max-width: 220px;
+  font-size: 25px;
   align-items: center;
   justify-content: center;
   font-family: "scale-variable", sans-serif;
